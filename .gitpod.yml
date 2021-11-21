@@ -35,3 +35,6 @@ vscode:
     - svelte.svelte-vscode
     - bradlc.vscode-tailwindcss
     - fivethree.vscode-svelte-snippets
+    - csstools.postcss
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
